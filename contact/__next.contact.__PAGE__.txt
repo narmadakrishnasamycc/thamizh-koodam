@@ -1,0 +1,37 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/319zvgg8ghnw1.js","/_next/static/chunks/105ddkm1e3gg4.js"],""]
+3:I[97367,["/_next/static/chunks/319zvgg8ghnw1.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/319zvgg8ghnw1.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/319zvgg8ghnw1.js"],"MetadataBoundary"]
+7:X
+1c:X
+1c:C
+0:{"buildId":"kRE8MueIZSR16-gbwQdwT","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"bg-kolam border-b border-line bg-ivory-deep/60","children":["$","div",null,{"className":"container-site flex items-center gap-8 py-8 sm:py-10","children":[["$","div",null,{"className":"min-w-0 flex-1","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1.5","children":[["$","li","0",{"className":"flex items-center gap-1.5","children":[false,["$","$L2",null,{"href":"/","className":"hover:text-maroon","children":"Home"}]]}],["$","li","1",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"viewBox":"0 0 24 24","className":"size-3.5 text-gold","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M9 6l6 6-6 6"}]}],["$","span",null,{"aria-current":"page","className":"text-charcoal","children":"Contact"}]]}]]}]}],["$","h1",null,{"className":"mt-3 text-3xl font-semibold text-maroon sm:text-4xl","children":"Contact Us"}],["$","p",null,{"className":"tamil-serif mt-1 text-lg text-gold-dark","children":"தொடர்புக்கு"}],["$","div",null,{"className":"mt-3 max-w-2xl text-[15px] leading-relaxed text-charcoal/85","children":"Suggestions, corrections and ideas are always welcome, whether it's a festival custom from your family, a story you grew up with, or a game you'd like to play here."}],"$undefined"]}],["$","div",null,{"className":"hidden size-32 shrink-0 place-items-center rounded-full border border-gold/40 bg-cream shadow-sm sm:grid","children":["$","svg",null,{"viewBox":"0 0 100 100","className":"size-24","aria-hidden":true,"children":["$undefined",["$","g",null,{"children":[["$","rect",null,{"x":"16","y":"30","width":"46","height":"56","rx":"4","fill":"#fff4dc","stroke":"#6e1c1c","strokeWidth":"2"}],["$","ellipse",null,{"cx":"39","cy":"30","rx":"25","ry":"5","fill":"#d09a3e","stroke":"#6e1c1c","strokeWidth":"2"}],["$","ellipse",null,{"cx":"39","cy":"86","rx":"25","ry":"5","fill":"#d09a3e","stroke":"#6e1c1c","strokeWidth":"2"}],[["$","path","44",{"d":"M24 44 H54","stroke":"#d09a3e","strokeWidth":"2","strokeLinecap":"round"}],["$","path","52",{"d":"M24 52 H54","stroke":"#d09a3e","strokeWidth":"2","strokeLinecap":"round"}],["$","path","60",{"d":"M24 60 H54","stroke":"#d09a3e","strokeWidth":"2","strokeLinecap":"round"}],["$","path","68",{"d":"M24 68 H44","stroke":"#d09a3e","strokeWidth":"2","strokeLinecap":"round"}]],["$","path",null,{"d":"M88 8 C70 16 58 34 52 64 C64 48 80 32 88 8 Z","fill":"#d09a3e","stroke":"#6e1c1c","strokeWidth":"1.8","strokeLinejoin":"round"}],["$","path",null,{"d":"M86 12 C74 26 62 44 54 62","stroke":"#6e1c1c","strokeWidth":"1.2","fill":"none"}],["$","path",null,{"d":"M52 64 L48 74","stroke":"#6e1c1c","strokeWidth":"2.5","strokeLinecap":"round"}]]}]]}]}]]}]}],["$","div",null,{"className":"container-site py-10","children":["$","div",null,{"className":"card max-w-2xl p-6","children":[[["$","h2",null,{"className":"font-serif text-xl font-semibold text-maroon","children":"Our inbox is on its way"}],["$","p",null,{"className":"mt-2 text-charcoal/85","children":"We're setting up a contact address for Thamizh Koodam. Please check back soon. We'd love to hear from you."}]],["$","h2",null,{"className":"mt-8 font-serif text-lg font-semibold text-maroon","children":"Helpful things to include"}],["$","ul",null,{"className":"mt-2 list-disc space-y-1 pl-5 text-sm text-charcoal/85 marker:text-gold","children":[["$","li",null,{"children":"The page you're writing about, if it's a correction."}],["$","li",null,{"children":"Where a custom comes from (your family, village or temple), as traditions differ."}],["$","li",null,{"children":"For game problems: your device and browser, and what happened."}]]}]]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/105ddkm1e3gg4.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#6e1c1c"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Contact Us | Thamizh Koodam"}],"$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17"]}]}]}],"$L18"]}],"isPartial":"$@19","staleTime":"$7","varyParams":null},{"rsc":"$L1a","isPartial":"$@1b","staleTime":"$7","varyParams":"$1c"}],"isUpgradeableISRFallback":false,"a":"$@1d","rootVaryParams":null,"needsRuntimeRequest":"$@1e"}
+1f:I[27201,["/_next/static/chunks/319zvgg8ghnw1.js"],"IconMark"]
+20:I[39756,["/_next/static/chunks/319zvgg8ghnw1.js"],"default"]
+21:I[37457,["/_next/static/chunks/319zvgg8ghnw1.js"],"default"]
+5:null
+a:["$","meta","1",{"name":"description","content":"Get in touch with Thamizh Koodam: suggestions, corrections and ideas for Tamil games, festivals, stories and tools are welcome."}]
+b:["$","meta","2",{"name":"application-name","content":"Thamizh Koodam"}]
+c:["$","link","3",{"rel":"canonical","href":"https://thamizh-koodam.com/contact/"}]
+d:["$","meta","4",{"property":"og:title","content":"Contact Us | Thamizh Koodam"}]
+e:["$","meta","5",{"property":"og:description","content":"Get in touch with Thamizh Koodam: suggestions, corrections and ideas for Tamil games, festivals, stories and tools are welcome."}]
+f:["$","meta","6",{"property":"og:url","content":"https://thamizh-koodam.com/"}]
+10:["$","meta","7",{"property":"og:site_name","content":"Thamizh Koodam"}]
+11:["$","meta","8",{"property":"og:locale","content":"en_IN"}]
+12:["$","meta","9",{"property":"og:type","content":"website"}]
+13:["$","meta","10",{"name":"twitter:card","content":"summary"}]
+14:["$","meta","11",{"name":"twitter:title","content":"Contact Us | Thamizh Koodam"}]
+15:["$","meta","12",{"name":"twitter:description","content":"Get in touch with Thamizh Koodam: suggestions, corrections and ideas for Tamil games, festivals, stories and tools are welcome."}]
+16:["$","link","13",{"rel":"icon","href":"/icon.svg?icon.0yztoqteuuow8.svg","sizes":"any","type":"image/svg+xml"}]
+17:["$","$L1f","14",{}]
+18:["$","meta",null,{"name":"next-size-adjust","content":""}]
+1a:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+1e:true
+7:300
+7:C
+1d:0
+19:"$undefined"
+1b:"$undefined"
+6:"$undefined"

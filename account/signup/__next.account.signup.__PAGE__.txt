@@ -1,0 +1,35 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/319zvgg8ghnw1.js","/_next/static/chunks/29up5chsmi9v4.js"],""]
+3:I[19858,["/_next/static/chunks/319zvgg8ghnw1.js","/_next/static/chunks/29up5chsmi9v4.js"],"default"]
+4:I[97367,["/_next/static/chunks/319zvgg8ghnw1.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/319zvgg8ghnw1.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/319zvgg8ghnw1.js"],"MetadataBoundary"]
+8:X
+18:X
+18:C
+0:{"buildId":"kRE8MueIZSR16-gbwQdwT","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"bg-kolam border-b border-line bg-ivory-deep/60","children":["$","div",null,{"className":"container-site flex items-center gap-8 py-8 sm:py-10","children":[["$","div",null,{"className":"min-w-0 flex-1","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1.5","children":[["$","li","0",{"className":"flex items-center gap-1.5","children":[false,["$","$L2",null,{"href":"/","className":"hover:text-maroon","children":"Home"}]]}],["$","li","1",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"viewBox":"0 0 24 24","className":"size-3.5 text-gold","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M9 6l6 6-6 6"}]}],["$","$L2",null,{"href":"/account/","className":"hover:text-maroon","children":"Account"}]]}],["$","li","2",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"viewBox":"0 0 24 24","className":"size-3.5 text-gold","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M9 6l6 6-6 6"}]}],["$","span",null,{"aria-current":"page","className":"text-charcoal","children":"Create an account"}]]}]]}]}],["$","h1",null,{"className":"mt-3 text-3xl font-semibold text-maroon sm:text-4xl","children":"Create an account"}],["$","p",null,{"className":"tamil-serif mt-1 text-lg text-gold-dark","children":"கணக்கு உருவாக்க"}],["$","div",null,{"className":"mt-3 max-w-2xl text-[15px] leading-relaxed text-charcoal/85","children":"Free, and only an email address is needed. Every Dhayam game you play is then kept with your account."}],"$undefined"]}],["$","div",null,{"className":"hidden size-32 shrink-0 place-items-center rounded-full border border-gold/40 bg-cream shadow-sm sm:grid","children":["$","svg",null,{"viewBox":"0 0 100 100","className":"size-24","aria-hidden":true,"children":["$undefined",["$","g",null,{"children":[[["$","rect","0",{"x":"44","y":"12","width":"12","height":"16","rx":"2.5","fill":"#5c7a4c","transform":"rotate(0 50 50)"}],["$","rect","1",{"x":"44","y":"12","width":"12","height":"16","rx":"2.5","fill":"#5c7a4c","transform":"rotate(45 50 50)"}],["$","rect","2",{"x":"44","y":"12","width":"12","height":"16","rx":"2.5","fill":"#5c7a4c","transform":"rotate(90 50 50)"}],["$","rect","3",{"x":"44","y":"12","width":"12","height":"16","rx":"2.5","fill":"#5c7a4c","transform":"rotate(135 50 50)"}],["$","rect","4",{"x":"44","y":"12","width":"12","height":"16","rx":"2.5","fill":"#5c7a4c","transform":"rotate(180 50 50)"}],["$","rect","5",{"x":"44","y":"12","width":"12","height":"16","rx":"2.5","fill":"#5c7a4c","transform":"rotate(225 50 50)"}],["$","rect","6",{"x":"44","y":"12","width":"12","height":"16","rx":"2.5","fill":"#5c7a4c","transform":"rotate(270 50 50)"}],["$","rect","7",{"x":"44","y":"12","width":"12","height":"16","rx":"2.5","fill":"#5c7a4c","transform":"rotate(315 50 50)"}]],["$","circle",null,{"cx":"50","cy":"50","r":"26","fill":"#5c7a4c"}],["$","circle",null,{"cx":"50","cy":"50","r":"11","fill":"#fff4dc","stroke":"#6e1c1c","strokeWidth":"2"}],["$","circle",null,{"cx":"50","cy":"50","r":"19","fill":"none","stroke":"#fff4dc","strokeWidth":"1.5","opacity":"0.5"}]]}]]}]}]]}]}],["$","div",null,{"className":"container-site py-10","children":["$","$L3",null,{"mode":"signup"}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/29up5chsmi9v4.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#6e1c1c"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Create an Account | Thamizh Koodam"}],["$","meta","1",{"name":"description","content":"Create a free Thamizh Koodam account to keep every Dhayam game you play, with its insights, across devices."}],["$","meta","2",{"name":"application-name","content":"Thamizh Koodam"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow"}],["$","meta","4",{"property":"og:title","content":"Create an Account | Thamizh Koodam"}],["$","meta","5",{"property":"og:description","content":"Create a free Thamizh Koodam account to keep every Dhayam game you play, with its insights, across devices."}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13"]}]}]}],"$L14"]}],"isPartial":"$@15","staleTime":"$8","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$8","varyParams":"$18"},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$8","varyParams":"$18"}],"isUpgradeableISRFallback":false,"a":"$@1b","rootVaryParams":null,"needsRuntimeRequest":"$@1c"}
+1d:I[27201,["/_next/static/chunks/319zvgg8ghnw1.js"],"IconMark"]
+1e:I[39756,["/_next/static/chunks/319zvgg8ghnw1.js"],"default"]
+1f:I[37457,["/_next/static/chunks/319zvgg8ghnw1.js"],"default"]
+6:null
+b:["$","meta","6",{"property":"og:url","content":"https://thamizh-koodam.com/"}]
+c:["$","meta","7",{"property":"og:site_name","content":"Thamizh Koodam"}]
+d:["$","meta","8",{"property":"og:locale","content":"en_IN"}]
+e:["$","meta","9",{"property":"og:type","content":"website"}]
+f:["$","meta","10",{"name":"twitter:card","content":"summary"}]
+10:["$","meta","11",{"name":"twitter:title","content":"Create an Account | Thamizh Koodam"}]
+11:["$","meta","12",{"name":"twitter:description","content":"Create a free Thamizh Koodam account to keep every Dhayam game you play, with its insights, across devices."}]
+12:["$","link","13",{"rel":"icon","href":"/icon.svg?icon.0yztoqteuuow8.svg","sizes":"any","type":"image/svg+xml"}]
+13:["$","$L1d","14",{}]
+14:["$","meta",null,{"name":"next-size-adjust","content":""}]
+16:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+19:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+1c:true
+8:300
+8:C
+1b:0
+15:"$undefined"
+17:"$undefined"
+1a:"$undefined"
+7:"$undefined"

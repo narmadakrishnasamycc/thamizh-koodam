@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/319zvgg8ghnw1.js","/_next/static/chunks/3sozl-qzfvu31.js"],""]
+3:I[79471,["/_next/static/chunks/319zvgg8ghnw1.js","/_next/static/chunks/3sozl-qzfvu31.js"],"default"]
+4:I[97367,["/_next/static/chunks/319zvgg8ghnw1.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/319zvgg8ghnw1.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/319zvgg8ghnw1.js"],"MetadataBoundary"]
+8:X
+19:X
+19:C
+0:{"buildId":"kRE8MueIZSR16-gbwQdwT","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"bg-kolam border-b border-line bg-ivory-deep/60","children":["$","div",null,{"className":"container-site flex items-center gap-8 py-8 sm:py-10","children":[["$","div",null,{"className":"min-w-0 flex-1","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1.5","children":[["$","li","0",{"className":"flex items-center gap-1.5","children":[false,["$","$L2",null,{"href":"/","className":"hover:text-maroon","children":"Home"}]]}],["$","li","1",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"viewBox":"0 0 24 24","className":"size-3.5 text-gold","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M9 6l6 6-6 6"}]}],["$","$L2",null,{"href":"/tools/","className":"hover:text-maroon","children":"Tools"}]]}],["$","li","2",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"viewBox":"0 0 24 24","className":"size-3.5 text-gold","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M9 6l6 6-6 6"}]}],["$","span",null,{"aria-current":"page","className":"text-charcoal","children":"Wishes Generator"}]]}]]}]}],["$","h1",null,{"className":"mt-3 text-3xl font-semibold text-maroon sm:text-4xl","children":"Tamil Wishes Generator"}],["$","p",null,{"className":"tamil-serif mt-1 text-lg text-gold-dark","children":"வாழ்த்து அட்டை"}],["$","div",null,{"className":"mt-3 max-w-2xl text-[15px] leading-relaxed text-charcoal/85","children":"Pick an occasion, add a name, choose a wish — then download it as a greeting card or share it straight to WhatsApp."}],"$undefined"]}],["$","div",null,{"className":"hidden size-32 shrink-0 place-items-center rounded-full border border-gold/40 bg-cream shadow-sm sm:grid","children":["$","svg",null,{"viewBox":"0 0 100 100","className":"size-24","aria-hidden":true,"children":["$undefined",["$","g",null,{"children":[["$","rect",null,{"x":"16","y":"30","width":"46","height":"56","rx":"4","fill":"#fff4dc","stroke":"#6e1c1c","strokeWidth":"2"}],["$","ellipse",null,{"cx":"39","cy":"30","rx":"25","ry":"5","fill":"#d09a3e","stroke":"#6e1c1c","strokeWidth":"2"}],["$","ellipse",null,{"cx":"39","cy":"86","rx":"25","ry":"5","fill":"#d09a3e","stroke":"#6e1c1c","strokeWidth":"2"}],[["$","path","44",{"d":"M24 44 H54","stroke":"#d09a3e","strokeWidth":"2","strokeLinecap":"round"}],["$","path","52",{"d":"M24 52 H54","stroke":"#d09a3e","strokeWidth":"2","strokeLinecap":"round"}],["$","path","60",{"d":"M24 60 H54","stroke":"#d09a3e","strokeWidth":"2","strokeLinecap":"round"}],["$","path","68",{"d":"M24 68 H44","stroke":"#d09a3e","strokeWidth":"2","strokeLinecap":"round"}]],["$","path",null,{"d":"M88 8 C70 16 58 34 52 64 C64 48 80 32 88 8 Z","fill":"#d09a3e","stroke":"#6e1c1c","strokeWidth":"1.8","strokeLinejoin":"round"}],["$","path",null,{"d":"M86 12 C74 26 62 44 54 62","stroke":"#6e1c1c","strokeWidth":"1.2","fill":"none"}],["$","path",null,{"d":"M52 64 L48 74","stroke":"#6e1c1c","strokeWidth":"2.5","strokeLinecap":"round"}]]}]]}]}]]}]}],["$","div",null,{"className":"container-site py-10","children":["$","$L3",null,{}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/3sozl-qzfvu31.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#6e1c1c"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Tamil Wishes Generator — Make a Greeting Card | Thamizh Koodam"}],["$","meta","1",{"name":"description","content":"Create a personalised Tamil greeting for birthdays, weddings, Pongal, Deepavali and Tamil New Year. Add a name, then download the card or share it."}],["$","meta","2",{"name":"application-name","content":"Thamizh Koodam"}],["$","link","3",{"rel":"canonical","href":"https://thamizh-koodam.com/tools/wishes-generator/"}],["$","meta","4",{"property":"og:title","content":"Tamil Wishes Generator — Make a Greeting Card | Thamizh Koodam"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14"]}]}]}],"$L15"]}],"isPartial":"$@16","staleTime":"$8","varyParams":null},{"rsc":"$L17","isPartial":"$@18","staleTime":"$8","varyParams":"$19"},{"rsc":"$L1a","isPartial":"$@1b","staleTime":"$8","varyParams":"$19"}],"isUpgradeableISRFallback":false,"a":"$@1c","rootVaryParams":null,"needsRuntimeRequest":"$@1d"}
+1e:I[27201,["/_next/static/chunks/319zvgg8ghnw1.js"],"IconMark"]
+1f:I[39756,["/_next/static/chunks/319zvgg8ghnw1.js"],"default"]
+20:I[37457,["/_next/static/chunks/319zvgg8ghnw1.js"],"default"]
+6:null
+b:["$","meta","5",{"property":"og:description","content":"Create a personalised Tamil greeting for birthdays, weddings, Pongal, Deepavali and Tamil New Year. Add a name, then download the card or share it."}]
+c:["$","meta","6",{"property":"og:url","content":"https://thamizh-koodam.com/"}]
+d:["$","meta","7",{"property":"og:site_name","content":"Thamizh Koodam"}]
+e:["$","meta","8",{"property":"og:locale","content":"en_IN"}]
+f:["$","meta","9",{"property":"og:type","content":"website"}]
+10:["$","meta","10",{"name":"twitter:card","content":"summary"}]
+11:["$","meta","11",{"name":"twitter:title","content":"Tamil Wishes Generator — Make a Greeting Card | Thamizh Koodam"}]
+12:["$","meta","12",{"name":"twitter:description","content":"Create a personalised Tamil greeting for birthdays, weddings, Pongal, Deepavali and Tamil New Year. Add a name, then download the card or share it."}]
+13:["$","link","13",{"rel":"icon","href":"/icon.svg?icon.0yztoqteuuow8.svg","sizes":"any","type":"image/svg+xml"}]
+14:["$","$L1e","14",{}]
+15:["$","meta",null,{"name":"next-size-adjust","content":""}]
+17:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+1a:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+1d:true
+8:300
+8:C
+1c:0
+16:"$undefined"
+18:"$undefined"
+1b:"$undefined"
+7:"$undefined"
