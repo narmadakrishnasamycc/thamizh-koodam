@@ -1,0 +1,44 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js","/_next/static/chunks/2u58v0anscblf.js"],""]
+3:I[979,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js","/_next/static/chunks/2u58v0anscblf.js"],"default"]
+4:I[97367,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js"],"MetadataBoundary"]
+:HL["/_next/static/chunks/41xou8viqg0g2.css","style"]
+8:X
+20:X
+20:C
+0:{"buildId":"WtAWtbt6kbREARKcAXN9K","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"bg-kolam border-b border-line bg-ivory-deep/60","children":["$","div",null,{"className":"container-site flex items-center gap-8 py-8 sm:py-10","children":[["$","div",null,{"className":"min-w-0 flex-1","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1.5","children":[["$","li","0",{"className":"flex items-center gap-1.5","children":[false,["$","$L2",null,{"href":"/","className":"hover:text-maroon","children":"Home"}]]}],["$","li","1",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"viewBox":"0 0 24 24","className":"size-3.5 text-gold","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M9 6l6 6-6 6"}]}],["$","$L2",null,{"href":"/tools/","className":"hover:text-maroon","children":"Tools"}]]}],["$","li","2",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"viewBox":"0 0 24 24","className":"size-3.5 text-gold","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M9 6l6 6-6 6"}]}],["$","span",null,{"aria-current":"page","className":"text-charcoal","children":"Dayakattai Dice Roller"}]]}]]}]}],["$","h1",null,{"className":"type-title mt-3 font-semibold text-maroon","children":"Dayakattai Dice Roller"}],["$","p",null,{"className":"type-title-ta mt-1 text-gold-dark","children":"தாயக்கட்டை"}],["$","div",null,{"className":"type-lead mt-3 max-w-2xl text-charcoal/85","children":["Playing Dhayam on a real board but can't find the sticks? Roll a pair here. Or"," ",["$","$L2",null,{"href":"/tamil-traditional-games/dhayam/","className":"font-semibold text-maroon underline decoration-gold underline-offset-2","children":"play Dhayam online"}],"."]}],"$undefined"]}],"$undefined",["$","div",null,{"className":"hidden size-32 shrink-0 place-items-center rounded-full border border-gold/40 bg-cream shadow-sm sm:grid","children":["$","svg",null,{"viewBox":"0 0 100 100","className":"size-24","aria-hidden":true,"children":["$undefined",["$","g",null,{"children":[["$","g",null,{"transform":"rotate(-16 40 50)","children":[["$","rect",null,{"x":"31","y":"14","width":"18","height":"72","rx":"7","fill":"#fff4dc","stroke":"#6e1c1c","strokeWidth":"2.5"}],[["$","circle","34",{"cx":"40","cy":34,"r":"3.4","fill":"#6e1c1c"}],["$","circle","50",{"cx":"40","cy":50,"r":"3.4","fill":"#6e1c1c"}],["$","circle","66",{"cx":"40","cy":66,"r":"3.4","fill":"#6e1c1c"}]]]}],["$","g",null,{"transform":"rotate(14 62 52)","children":[["$","rect",null,{"x":"53","y":"16","width":"18","height":"72","rx":"7","fill":"#d09a3e","stroke":"#6e1c1c","strokeWidth":"2.5"}],[["$","circle","43",{"cx":"62","cy":43,"r":"3.4","fill":"#6e1c1c"}],["$","circle","61",{"cx":"62","cy":61,"r":"3.4","fill":"#6e1c1c"}]]]}]]}]]}]}]]}]}],["$","div",null,{"className":"container-site py-10","children":["$","$L3",null,{}]}]],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/41xou8viqg0g2.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2u58v0anscblf.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#6e1c1c"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Dayakattai Dice Roller for Dhayam | Thamizh Koodam"}],["$","meta","1",{"name":"description","content":"Roll a pair of Dayakattai stick dice online for Dhayam and other Tamil board games. See each roll, your history, and how likely every number is."}],["$","meta","2",{"name":"application-name","content":"Thamizh Koodam"}],["$","link","3",{"rel":"canonical","href":"https://thamizh-koodam.com/tools/dayakattai-dice-roller/"}],["$","meta","4",{"property":"og:title","content":"Dayakattai Dice Roller for Dhayam | Thamizh Koodam"}],["$","meta","5",{"property":"og:description","content":"Roll a pair of Dayakattai stick dice online for Dhayam and other Tamil board games. See each roll, your history, and how likely every number is."}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b"]}]}]}],"$L1c"]}],"isPartial":"$@1d","staleTime":"$8","varyParams":null},{"rsc":"$L1e","isPartial":"$@1f","staleTime":"$8","varyParams":"$20"},{"rsc":"$L21","isPartial":"$@22","staleTime":"$8","varyParams":"$20"}],"isUpgradeableISRFallback":false,"a":"$@23","rootVaryParams":null,"needsRuntimeRequest":"$@24"}
+25:I[27201,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js"],"IconMark"]
+26:I[39756,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js"],"default"]
+27:I[37457,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js"],"default"]
+6:null
+b:["$","meta","6",{"property":"og:url","content":"https://thamizh-koodam.com/"}]
+c:["$","meta","7",{"property":"og:site_name","content":"Thamizh Koodam"}]
+d:["$","meta","8",{"property":"og:locale","content":"en_IN"}]
+e:["$","meta","9",{"property":"og:image","content":"https://thamizh-koodam.com/images/share.jpg"}]
+f:["$","meta","10",{"property":"og:image:width","content":"1200"}]
+10:["$","meta","11",{"property":"og:image:height","content":"630"}]
+11:["$","meta","12",{"property":"og:image:alt","content":"Thamizh Koodam — Where Tamil tradition comes together"}]
+12:["$","meta","13",{"property":"og:type","content":"website"}]
+13:["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}]
+14:["$","meta","15",{"name":"twitter:title","content":"Dayakattai Dice Roller for Dhayam | Thamizh Koodam"}]
+15:["$","meta","16",{"name":"twitter:description","content":"Roll a pair of Dayakattai stick dice online for Dhayam and other Tamil board games. See each roll, your history, and how likely every number is."}]
+16:["$","meta","17",{"name":"twitter:image","content":"https://thamizh-koodam.com/images/share.jpg"}]
+17:["$","meta","18",{"name":"twitter:image:alt","content":"Thamizh Koodam — Where Tamil tradition comes together"}]
+18:["$","meta","19",{"name":"twitter:image:width","content":"1200"}]
+19:["$","meta","20",{"name":"twitter:image:height","content":"630"}]
+1a:["$","link","21",{"rel":"icon","href":"/icon.svg?icon.0yztoqteuuow8.svg","sizes":"any","type":"image/svg+xml"}]
+1b:["$","$L25","22",{}]
+1c:["$","meta",null,{"name":"next-size-adjust","content":""}]
+1e:["$","$1","c",{"children":[null,["$","$L26",null,{"parallelRouterKey":"children","template":["$","$L27",null,{}]}]]}]
+21:["$","$1","c",{"children":[null,["$","$L26",null,{"parallelRouterKey":"children","template":["$","$L27",null,{}]}]]}]
+24:true
+8:300
+8:C
+23:0
+1d:"$undefined"
+1f:"$undefined"
+22:"$undefined"
+7:"$undefined"

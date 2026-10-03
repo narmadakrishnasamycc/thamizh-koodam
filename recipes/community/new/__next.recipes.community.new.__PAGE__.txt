@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js","/_next/static/chunks/1qwxqgj-op-kk.js"],""]
+3:I[57042,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js","/_next/static/chunks/1qwxqgj-op-kk.js"],"default"]
+4:I[97367,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js"],"MetadataBoundary"]
+:HL["/images/icons/category/recipes.png","image"]
+8:X
+16:X
+16:C
+0:{"buildId":"WtAWtbt6kbREARKcAXN9K","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"bg-kolam border-b border-line bg-ivory-deep/60","children":["$","div",null,{"className":"container-site flex items-center gap-8 py-8 sm:py-10","children":[["$","div",null,{"className":"min-w-0 flex-1","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1.5","children":[["$","li","0",{"className":"flex items-center gap-1.5","children":[false,["$","$L2",null,{"href":"/","className":"hover:text-maroon","children":"Home"}]]}],["$","li","1",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"viewBox":"0 0 24 24","className":"size-3.5 text-gold","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M9 6l6 6-6 6"}]}],["$","$L2",null,{"href":"/recipes/","className":"hover:text-maroon","children":"Recipes"}]]}],["$","li","2",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"viewBox":"0 0 24 24","className":"size-3.5 text-gold","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M9 6l6 6-6 6"}]}],["$","$L2",null,{"href":"/recipes/community/","className":"hover:text-maroon","children":"Community"}]]}],["$","li","3",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"viewBox":"0 0 24 24","className":"size-3.5 text-gold","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M9 6l6 6-6 6"}]}],["$","span",null,{"aria-current":"page","className":"text-charcoal","children":"Share"}]]}]]}]}],["$","h1",null,{"className":"type-title mt-3 font-semibold text-maroon","children":"Share a recipe"}],["$","p",null,{"className":"type-title-ta mt-1 text-gold-dark","children":"சமையல் குறிப்பைப் பகிர்க"}],["$","div",null,{"className":"type-lead mt-3 max-w-2xl text-charcoal/85","children":"Write it in English or Tamil — we translate it into the other language when you post."}],"$undefined"]}],"$undefined",["$","div",null,{"className":"hidden size-32 shrink-0 place-items-center rounded-full border border-gold/40 bg-cream shadow-sm sm:grid","children":["$","img",null,{"src":"/images/icons/category/recipes.png","alt":"","className":"max-h-20 w-auto max-w-24 object-contain"}]}]]}]}],["$","div",null,{"className":"container-site py-10","children":["$","$L3",null,{}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/1qwxqgj-op-kk.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#6e1c1c"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Share a Recipe | Thamizh Koodam"}],["$","meta","1",{"name":"description","content":"Share a Tamil recipe with the Thamizh Koodam community, in English or Tamil."}],["$","meta","2",{"name":"application-name","content":"Thamizh Koodam"}],["$","meta","3",{"name":"robots","content":"noindex, follow"}],["$","meta","4",{"property":"og:title","content":"Share a Recipe | Thamizh Koodam"}],["$","meta","5",{"property":"og:description","content":"Share a Tamil recipe with the Thamizh Koodam community, in English or Tamil."}],["$","meta","6",{"property":"og:url","content":"https://thamizh-koodam.com/"}],["$","meta","7",{"property":"og:site_name","content":"Thamizh Koodam"}],["$","meta","8",{"property":"og:locale","content":"en_IN"}],["$","meta","9",{"property":"og:image","content":"https://thamizh-koodam.com/images/share.jpg"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"Thamizh Koodam — Where Tamil tradition comes together"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Share a Recipe | Thamizh Koodam"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11"]}]}]}],"$L12"]}],"isPartial":"$@13","staleTime":"$8","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$8","varyParams":"$16"},{"rsc":"$L17","isPartial":"$@18","staleTime":"$8","varyParams":"$16"},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$8","varyParams":"$16"}],"isUpgradeableISRFallback":false,"a":"$@1b","rootVaryParams":null,"needsRuntimeRequest":"$@1c"}
+1d:I[27201,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js"],"IconMark"]
+1e:I[39756,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js"],"default"]
+1f:I[37457,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js"],"default"]
+6:null
+b:["$","meta","16",{"name":"twitter:description","content":"Share a Tamil recipe with the Thamizh Koodam community, in English or Tamil."}]
+c:["$","meta","17",{"name":"twitter:image","content":"https://thamizh-koodam.com/images/share.jpg"}]
+d:["$","meta","18",{"name":"twitter:image:alt","content":"Thamizh Koodam — Where Tamil tradition comes together"}]
+e:["$","meta","19",{"name":"twitter:image:width","content":"1200"}]
+f:["$","meta","20",{"name":"twitter:image:height","content":"630"}]
+10:["$","link","21",{"rel":"icon","href":"/icon.svg?icon.0yztoqteuuow8.svg","sizes":"any","type":"image/svg+xml"}]
+11:["$","$L1d","22",{}]
+12:["$","meta",null,{"name":"next-size-adjust","content":""}]
+14:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+17:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+19:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+1c:true
+8:300
+8:C
+1b:0
+13:"$undefined"
+15:"$undefined"
+18:"$undefined"
+1a:"$undefined"
+7:"$undefined"

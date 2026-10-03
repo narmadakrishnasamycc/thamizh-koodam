@@ -1,0 +1,51 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js","/_next/static/chunks/24ht8n6y_cvei.js","/_next/static/chunks/0ge_p53hq2hg-.js"],""]
+3:I[31774,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js","/_next/static/chunks/24ht8n6y_cvei.js","/_next/static/chunks/0ge_p53hq2hg-.js"],"default"]
+4:I[97367,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js"],"MetadataBoundary"]
+8:X
+26:X
+26:C
+0:{"buildId":"WtAWtbt6kbREARKcAXN9K","data":[{"rsc":["$","$1","c",{"children":[[["$","nav",null,{"aria-label":"Community sections","className":"border-b border-line bg-cream","children":["$","div",null,{"className":"container-site py-3","children":["$","ul",null,{"className":"grid grid-cols-3 gap-2 sm:gap-4","children":[["$","li","local",{"children":["$","$L2",null,{"href":"/tamil-community/","className":"relative flex h-full items-center gap-2.5 overflow-hidden rounded-xl border p-1.5 transition-shadow hover:shadow-md sm:gap-4 sm:p-2 border-line bg-white","children":[["$","img",null,{"src":"/images/community/local.jpg","alt":"","width":480,"height":360,"loading":"lazy","className":"hidden aspect-[4/3] w-16 shrink-0 rounded-lg object-cover sm:block md:w-20 lg:w-24"}],["$","span",null,{"className":"min-w-0 py-1 pl-1 sm:pl-0","children":[["$","span",null,{"className":"block font-serif text-[14px] font-semibold leading-tight sm:text-lg text-charcoal","children":"Local Community"}],["$","span",null,{"lang":"ta","className":"tamil mt-0.5 block text-[11px] leading-snug sm:text-[13px] text-maroon/80","children":"உள்ளூர் சமூகம்"}],["$","span",null,{"className":"mt-0.5 hidden text-[13px] leading-snug md:block text-charcoal/70","children":"Find people, places and help nearby."}]]}],false]}]}],["$","li","sangams",{"children":["$","$L2",null,{"href":"/tamil-community/tamil-sangams/","aria-current":"page","className":"relative flex h-full items-center gap-2.5 overflow-hidden rounded-xl border p-1.5 transition-shadow hover:shadow-md sm:gap-4 sm:p-2 border-maroon bg-maroon shadow-md","children":[["$","img",null,{"src":"/images/community/sangams.jpg","alt":"","width":480,"height":360,"loading":"lazy","className":"hidden aspect-[4/3] w-16 shrink-0 rounded-lg object-cover sm:block md:w-20 lg:w-24"}],["$","span",null,{"className":"min-w-0 py-1 pl-1 sm:pl-0","children":[["$","span",null,{"className":"block font-serif text-[14px] font-semibold leading-tight sm:text-lg text-gold-light","children":"Sangams & Groups"}],["$","span",null,{"lang":"ta","className":"tamil mt-0.5 block text-[11px] leading-snug sm:text-[13px] text-gold-light/90","children":"சங்கங்கள் மற்றும் குழுக்கள்"}],["$","span",null,{"className":"mt-0.5 hidden text-[13px] leading-snug md:block text-white/90","children":"Connect with organisations and member groups."}]]}],["$","span",null,{"className":"absolute inset-x-0 bottom-0 h-[3px] bg-gold","aria-hidden":"true"}]]}]}],["$","li","global",{"children":["$","$L2",null,{"href":"/tamil-community/global-thamizh/","className":"relative flex h-full items-center gap-2.5 overflow-hidden rounded-xl border p-1.5 transition-shadow hover:shadow-md sm:gap-4 sm:p-2 border-line bg-white","children":[["$","img",null,{"src":"/images/community/global.jpg","alt":"","width":480,"height":360,"loading":"lazy","className":"hidden aspect-[4/3] w-16 shrink-0 rounded-lg object-cover sm:block md:w-20 lg:w-24"}],["$","span",null,{"className":"min-w-0 py-1 pl-1 sm:pl-0","children":[["$","span",null,{"className":"block font-serif text-[14px] font-semibold leading-tight sm:text-lg text-charcoal","children":"Global Tamil Forum"}],["$","span",null,{"lang":"ta","className":"tamil mt-0.5 block text-[11px] leading-snug sm:text-[13px] text-maroon/80","children":"உலகத் தமிழர் மன்றம்"}],["$","span",null,{"className":"mt-0.5 hidden text-[13px] leading-snug md:block text-charcoal/70","children":"Share interests with Tamils worldwide."}]]}],false]}]}]]}]}]}],["$","$L3",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/24ht8n6y_cvei.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0ge_p53hq2hg-.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#6e1c1c"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Register a Sangam — Tamil Community | Thamizh Koodam"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21"]}]}]}],"$L22"]}],"isPartial":"$@23","staleTime":"$8","varyParams":null},{"rsc":"$L24","isPartial":"$@25","staleTime":"$8","varyParams":"$26"},{"rsc":"$L27","isPartial":"$@28","staleTime":"$8","varyParams":"$26"},{"rsc":"$L29","isPartial":"$@2a","staleTime":"$8","varyParams":"$26"}],"isUpgradeableISRFallback":false,"a":"$@2b","rootVaryParams":null,"needsRuntimeRequest":"$@2c"}
+2d:I[27201,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js"],"IconMark"]
+2e:I[39756,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js"],"default"]
+2f:I[37457,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/0ws1x22bnfo2l.js"],"default"]
+6:null
+b:["$","meta","1",{"name":"description","content":"Register your Tamil Sangam, school or cultural organisation on Thamizh Koodam: one member list, announcements, channels, Sangam events and resources."}]
+c:["$","meta","2",{"name":"application-name","content":"Thamizh Koodam"}]
+d:["$","meta","3",{"name":"robots","content":"noindex, follow"}]
+e:["$","link","4",{"rel":"canonical","href":"https://thamizh-koodam.com/tamil-community/tamil-sangams/register/"}]
+f:["$","meta","5",{"property":"og:title","content":"Register a Sangam — Tamil Community | Thamizh Koodam"}]
+10:["$","meta","6",{"property":"og:description","content":"Register your Tamil Sangam, school or cultural organisation on Thamizh Koodam: one member list, announcements, channels, Sangam events and resources."}]
+11:["$","meta","7",{"property":"og:url","content":"https://thamizh-koodam.com/"}]
+12:["$","meta","8",{"property":"og:site_name","content":"Thamizh Koodam"}]
+13:["$","meta","9",{"property":"og:locale","content":"en_IN"}]
+14:["$","meta","10",{"property":"og:image","content":"https://thamizh-koodam.com/images/share.jpg"}]
+15:["$","meta","11",{"property":"og:image:width","content":"1200"}]
+16:["$","meta","12",{"property":"og:image:height","content":"630"}]
+17:["$","meta","13",{"property":"og:image:alt","content":"Thamizh Koodam — Where Tamil tradition comes together"}]
+18:["$","meta","14",{"property":"og:type","content":"website"}]
+19:["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}]
+1a:["$","meta","16",{"name":"twitter:title","content":"Register a Sangam — Tamil Community | Thamizh Koodam"}]
+1b:["$","meta","17",{"name":"twitter:description","content":"Register your Tamil Sangam, school or cultural organisation on Thamizh Koodam: one member list, announcements, channels, Sangam events and resources."}]
+1c:["$","meta","18",{"name":"twitter:image","content":"https://thamizh-koodam.com/images/share.jpg"}]
+1d:["$","meta","19",{"name":"twitter:image:alt","content":"Thamizh Koodam — Where Tamil tradition comes together"}]
+1e:["$","meta","20",{"name":"twitter:image:width","content":"1200"}]
+1f:["$","meta","21",{"name":"twitter:image:height","content":"630"}]
+20:["$","link","22",{"rel":"icon","href":"/icon.svg?icon.0yztoqteuuow8.svg","sizes":"any","type":"image/svg+xml"}]
+21:["$","$L2d","23",{}]
+22:["$","meta",null,{"name":"next-size-adjust","content":""}]
+24:["$","$1","c",{"children":[null,["$","$L2e",null,{"parallelRouterKey":"children","template":["$","$L2f",null,{}]}]]}]
+27:["$","$1","c",{"children":[null,["$","$L2e",null,{"parallelRouterKey":"children","template":["$","$L2f",null,{}]}]]}]
+29:["$","$1","c",{"children":[null,["$","$L2e",null,{"parallelRouterKey":"children","template":["$","$L2f",null,{}]}]]}]
+2c:true
+8:300
+8:C
+2b:0
+23:"$undefined"
+25:"$undefined"
+28:"$undefined"
+2a:"$undefined"
+7:"$undefined"
