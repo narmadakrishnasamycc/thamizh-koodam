@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /search/
+Disallow: /admin/
+Disallow: /account/
+
+Sitemap: https://thamizh-koodam.com/sitemap.xml

@@ -1,0 +1,80 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/2omip1fmbf5d1.js","/_next/static/chunks/14_j2agpfpa9m.js","/_next/static/chunks/0q55i2rj-5uz2.js"],""]
+3:I[17631,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/2omip1fmbf5d1.js","/_next/static/chunks/14_j2agpfpa9m.js","/_next/static/chunks/0q55i2rj-5uz2.js"],"default"]
+4:T1587,<h2 id="about-the-game">About the game</h2>
+<p>Paramapadam (பரமபதம்) means "the supreme abode". It is a name for Vaikuntham (வைகுண்டம்), the heavenly home of Lord <a href="/deities/vishnu/">Vishnu</a>. This Tamil form of snakes and ladders is much more than a race to the finish.</p>
+<p>Indian boards like this one, known in other regions by names such as Moksha Patam and Gyan Chaupar, are the ancestors of the snakes-and-ladders game now played all over the world. On traditional boards, the ladders stand for good qualities such as kindness, honesty, generosity and devotion, while the snakes stand for faults such as anger, greed, pride and lying. Good deeds lift you up; bad habits drag you down. The final square is Paramapadam itself, often decorated with a picture of Vishnu.</p>
+<p>The game has a special place on <strong>Vaikunta Ekadasi</strong> (வைகுண்ட ஏகாதசி), a sacred day for devotees of Vishnu that usually falls in the Tamil month of Margazhi (மார்கழி), around December or January. Many devotees fast and keep an all-night vigil, called <em>kan vizhithal</em> (கண் விழித்தல்), "keeping the eyes open". Out come the Paramapadam boards, and whole families play late into the night to help each other stay awake. It is also the day when a special gate called the <em>Sorga Vaasal</em> (சொர்க்க வாசல்) is opened in many Vishnu temples.</p>
+<h2 id="what-you-need">What you need</h2>
+<ul>
+<li><strong>A Paramapadam board.</strong> Boards may be printed, painted on cloth or hand-drawn. Many modern boards have 100 numbered squares; older boards vary.</li>
+<li><strong>One token per player</strong>, such as a coin, shell, seed or button, each one different.</li>
+<li><strong>Something to throw:</strong> an ordinary six-sided die, or the traditional <em>dhayakattai</em> (தாயக்கட்டை), the long four-sided dice used in the game of <a href="/tamil-traditional-games/dhayam/">Dhayam</a>. Some families use cowrie shells (சோழி) instead.</li>
+<li><strong>Two or more players.</strong> Two to four is comfortable, but on Ekadasi night everyone joins in.</li>
+</ul>
+<h2 id="setting-up">Setting up</h2>
+<ol>
+<li>Lay the board flat where everyone can reach it.</li>
+<li>Each player chooses a token and places it just off the board, beside the first square.</li>
+<li>Decide the order of play. Letting the youngest player go first is a kind family custom.</li>
+</ol>
+<h2 id="how-to-play">How to play</h2>
+<ol>
+<li><strong>Throw and move.</strong> On your turn, throw the die and move your token forward that many squares. Follow the numbers. On most boards the path zig-zags, running left to right along one row and right to left along the next.</li>
+<li><strong>Ladders.</strong> If your move ends exactly on the bottom of a ladder, climb straight up to the square at its top.</li>
+<li><strong>Snakes.</strong> If your move ends on a snake's head, slide all the way down to the square at its tail.</li>
+<li><strong>Only the start counts.</strong> Landing on the top of a ladder or the tail of a snake does nothing.</li>
+<li><strong>Sharing squares.</strong> Two or more tokens can sit on the same square.</li>
+<li><strong>Take turns.</strong> Play passes around the group in order. Many families give an extra throw for a six, or for the highest score on dhayakattai.</li>
+<li><strong>The last stretch.</strong> Many families say you must throw the exact number needed to land on the final square. If your throw is too big, you stay where you are and try again next turn.</li>
+</ol>
+<h2 id="how-to-win">How to win</h2>
+<p>The first player to reach Paramapadam, the final square, wins. On Vaikunta Ekadasi night, families often play on for second and third place, then start again. After all, the real aim is to stay awake together.</p>
+<h2 id="variations">Variations</h2>
+<ul>
+<li><strong>Starting throw:</strong> some families only let a token enter the board after a particular throw, such as a one or a six.</li>
+<li><strong>Bounce back:</strong> instead of waiting for the exact number, some families move the token to the final square and then count backwards with the extra steps.</li>
+<li><strong>Dhayakattai scoring:</strong> families who play with dhayakattai follow their own house rules for what each throw is worth.</li>
+<li><strong>The long snake:</strong> many boards have a very long snake close to the top, so even a player who is nearly home can slide right back down.</li>
+<li><strong>Talking game:</strong> whoever lands on a snake or ladder reads out its quality, or shares a good deed from their day.</li>
+</ul>
+<h2 id="why-children-love-it">Why children love it</h2>
+<ul>
+<li><strong>Numbers and counting.</strong> Counting squares, reading numbers up to 100 and adding up throws.</li>
+<li><strong>Anyone can win.</strong> It is pure luck, so a four-year-old really can beat Paatti and Thatha.</li>
+<li><strong>Learning to lose well.</strong> Sliding down a long snake is a gentle lesson in taking setbacks with a smile.</li>
+<li><strong>Big ideas made simple.</strong> Snakes and ladders open up easy talks about good and bad habits.</li>
+<li><strong>Festival memories.</strong> Staying up late on Ekadasi night with the whole family is a memory to treasure.</li>
+</ul>
+<p>More games to try: <a href="/tamil-traditional-games/pallanguzhi/">Pallanguzhi</a> and <a href="/tamil-traditional-games/aadu-puli-aattam/">Aadu Puli Aattam</a>.</p>c:X
+11:X
+11:C
+0:{"buildId":"33dZao5sOKdQy9oUi8YyM","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"bg-kolam border-b border-line bg-ivory-deep/60","children":["$","div",null,{"className":"container-site py-6","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1.5","children":[["$","li","0",{"className":"flex items-center gap-1.5","children":[false,["$","$L2",null,{"href":"/","className":"hover:text-maroon","children":"Home"}]]}],["$","li","1",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"viewBox":"0 0 24 24","className":"size-3.5 text-gold","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M9 6l6 6-6 6"}]}],["$","$L2",null,{"href":"/tamil-traditional-games/","className":"hover:text-maroon","children":"Traditional Games"}]]}],["$","li","2",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"viewBox":"0 0 24 24","className":"size-3.5 text-gold","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M9 6l6 6-6 6"}]}],["$","span",null,{"aria-current":"page","className":"text-charcoal","children":"Paramapadam"}]]}]]}]}],["$","div",null,{"className":"mt-3 flex flex-wrap items-end justify-between gap-4","children":[["$","div",null,{"children":[["$","h1",null,{"className":"type-title font-semibold text-maroon","children":["Paramapadam ",["$","span",null,{"className":"tamil-serif text-2xl text-gold-dark","children":"பரமபதம்"}]]}],["$","p",null,{"className":"mt-1 max-w-2xl text-charcoal/85","children":"The Tamil snakes and ladders, thrown with Dayakattai sticks. Climb the ladders, dodge the snakes, and be the first to reach Paramapadam."}]]}],["$","$L2",null,{"href":"/tamil-traditional-games/paramapadam/rules/","className":"btn-secondary text-sm","children":["Full rules ",["$","svg",null,{"viewBox":"0 0 24 24","className":"size-4","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M5 12h14M13 6l6 6-6 6"}]}]]}]]}]]}]}],["$","section",null,{"className":"container-site py-6","aria-label":"Game","children":["$","$L3",null,{}]}],["$","section",null,{"className":"container-site pb-12 pt-4","aria-label":"About Paramapadam","children":["$","div",null,{"className":"max-w-3xl","children":["$","div",null,{"className":"prose prose-site max-w-none prose-headings:font-semibold prose-h2:mt-10 prose-h2:text-2xl prose-li:my-1 prose-p:leading-relaxed","dangerouslySetInnerHTML":{"__html":"$4"}}]}]}]],["$L5","$L6","$L7","$L8","$L9"],"$La"]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$c","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$c","varyParams":"$11"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$c","varyParams":"$11"}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+16:I[97367,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/2omip1fmbf5d1.js"],"OutletBoundary"]
+17:"$Sreact.suspense"
+19:I[97367,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/2omip1fmbf5d1.js"],"ViewportBoundary"]
+1a:I[97367,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/2omip1fmbf5d1.js"],"MetadataBoundary"]
+1b:I[27201,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/2omip1fmbf5d1.js"],"IconMark"]
+1c:I[39756,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/2omip1fmbf5d1.js"],"default"]
+1d:I[37457,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/2omip1fmbf5d1.js"],"default"]
+:HL["/_next/static/chunks/41xou8viqg0g2.css","style"]
+:HL["/_next/static/chunks/3rmrvmmc6h_d1.css","style"]
+:HL["/_next/static/chunks/1v-0pjmd8ovff.css","style"]
+5:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/41xou8viqg0g2.css","precedence":"next"}]
+6:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/3rmrvmmc6h_d1.css","precedence":"next"}]
+7:["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/1v-0pjmd8ovff.css","precedence":"next"}]
+8:["$","script","script-0",{"src":"/_next/static/chunks/14_j2agpfpa9m.js","async":true}]
+9:["$","script","script-1",{"src":"/_next/static/chunks/0q55i2rj-5uz2.js","async":true}]
+a:["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]
+d:["$","$1","h",{"children":[null,["$","$L19",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#6e1c1c"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$17",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Play Paramapadam Online — Tamil Snakes and Ladders | Thamizh Koodam"}],["$","meta","1",{"name":"description","content":"Play Paramapadam (பரமபதம்), the Tamil snakes and ladders, free in your browser: 2 to 6 players on a 132-square board, thrown with Dayakattai stick dice."}],["$","meta","2",{"name":"application-name","content":"Thamizh Koodam"}],["$","link","3",{"rel":"canonical","href":"https://thamizh-koodam.com/tamil-traditional-games/paramapadam/"}],["$","meta","4",{"property":"og:title","content":"Play Paramapadam Online — Tamil Snakes and Ladders | Thamizh Koodam"}],["$","meta","5",{"property":"og:description","content":"Play Paramapadam (பரமபதம்), the Tamil snakes and ladders, free in your browser: 2 to 6 players on a 132-square board, thrown with Dayakattai stick dice."}],["$","meta","6",{"property":"og:url","content":"https://thamizh-koodam.com/"}],["$","meta","7",{"property":"og:site_name","content":"Thamizh Koodam"}],["$","meta","8",{"property":"og:locale","content":"en_IN"}],["$","meta","9",{"property":"og:image","content":"https://thamizh-koodam.com/images/share.jpg"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"Thamizh Koodam — Where Tamil tradition comes together"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Play Paramapadam Online — Tamil Snakes and Ladders | Thamizh Koodam"}],["$","meta","16",{"name":"twitter:description","content":"Play Paramapadam (பரமபதம்), the Tamil snakes and ladders, free in your browser: 2 to 6 players on a 132-square board, thrown with Dayakattai stick dice."}],["$","meta","17",{"name":"twitter:image","content":"https://thamizh-koodam.com/images/share.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Thamizh Koodam — Where Tamil tradition comes together"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/favicon.ico?favicon.050-f-v80z9lt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","22",{"rel":"icon","href":"/icon.png?icon.3cco6_xfdt32c.png","sizes":"192x192","type":"image/png"}],["$","link","23",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.0w13gw3u82zqi.png","sizes":"180x180","type":"image/png"}],["$","$L1b","24",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","$1","c",{"children":[null,["$","$L1c",null,{"parallelRouterKey":"children","template":["$","$L1d",null,{}]}]]}]
+12:["$","$1","c",{"children":[null,["$","$L1c",null,{"parallelRouterKey":"children","template":["$","$L1d",null,{}]}]]}]
+15:true
+18:null
+c:300
+c:C
+14:0
+e:"$undefined"
+10:"$undefined"
+13:"$undefined"
+b:"$undefined"

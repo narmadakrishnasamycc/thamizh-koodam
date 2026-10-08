@@ -1,0 +1,49 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/2omip1fmbf5d1.js","/_next/static/chunks/105ddkm1e3gg4.js","/_next/static/chunks/3d1brovtcvq47.js"],""]
+3:I[62255,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/2omip1fmbf5d1.js","/_next/static/chunks/105ddkm1e3gg4.js","/_next/static/chunks/3d1brovtcvq47.js"],"default"]
+4:I[97367,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/2omip1fmbf5d1.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/2omip1fmbf5d1.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/2omip1fmbf5d1.js"],"MetadataBoundary"]
+8:X
+26:X
+26:C
+0:{"buildId":"33dZao5sOKdQy9oUi8YyM","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"bg-kolam border-b border-line bg-ivory-deep/60","children":["$","div",null,{"className":"container-site flex items-center gap-8 py-8 sm:py-10","children":[["$","div",null,{"className":"min-w-0 flex-1","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-1.5","children":[["$","li","0",{"className":"flex items-center gap-1.5","children":[false,["$","$L2",null,{"href":"/","className":"hover:text-maroon","children":"Home"}]]}],["$","li","1",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"viewBox":"0 0 24 24","className":"size-3.5 text-gold","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M9 6l6 6-6 6"}]}],["$","$L2",null,{"href":"/tamil-learning/","className":"hover:text-maroon","children":"Learning"}]]}],["$","li","2",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"viewBox":"0 0 24 24","className":"size-3.5 text-gold","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M9 6l6 6-6 6"}]}],["$","span",null,{"aria-current":"page","className":"text-charcoal","children":"Proverbs & Idioms"}]]}]]}]}],["$","h1",null,{"className":"type-title mt-3 font-semibold text-maroon","children":"Tamil Proverbs & Idioms"}],["$","p",null,{"className":"type-title-ta mt-1 text-gold-dark","children":"பழமொழிகளும் மரபுத்தொடர்களும்"}],["$","div",null,{"className":"type-lead mt-3 max-w-2xl text-charcoal/85","children":"Pazhamozhi, or old sayings, carry the everyday wisdom of Tamil homes; marabuthodar are the idioms we use without thinking. Each has its Tamil meaning, a word-for-word translation and what it means when people say it."}],"$undefined"]}],"$undefined",["$","div",null,{"className":"hidden size-32 shrink-0 place-items-center rounded-full border border-gold/40 bg-cream shadow-sm sm:grid","children":["$","svg",null,{"viewBox":"0 0 100 100","className":"size-24","aria-hidden":true,"children":["$undefined",["$","g",null,{"children":[[["$","g","0",{"transform":"translate(0 0) rotate(-4 50 36)","children":[["$","rect",null,{"x":"10","y":"28","width":"80","height":"13","rx":"6.5","fill":"#d09a3e","stroke":"#6e1c1c","strokeWidth":"1.5"}],["$","path",null,{"d":"M22 33 H40 M44 33 H60 M64 33 H78 M22 37 H50 M54 37 H74","stroke":"#6e1c1c","strokeWidth":"1.2","opacity":"0.7"}],["$","circle",null,{"cx":"50","cy":"34.5","r":"1.8","fill":"#6e1c1c"}]]}],["$","g","1",{"transform":"translate(0 16) rotate(-1 50 36)","children":[["$","rect",null,{"x":"10","y":"28","width":"80","height":"13","rx":"6.5","fill":"#d09a3e","stroke":"#6e1c1c","strokeWidth":"1.5"}],["$","path",null,{"d":"M22 33 H40 M44 33 H60 M64 33 H78 M22 37 H50 M54 37 H74","stroke":"#6e1c1c","strokeWidth":"1.2","opacity":"0.7"}],["$","circle",null,{"cx":"50","cy":"34.5","r":"1.8","fill":"#6e1c1c"}]]}],["$","g","2",{"transform":"translate(0 32) rotate(2 50 36)","children":[["$","rect",null,{"x":"10","y":"28","width":"80","height":"13","rx":"6.5","fill":"#d09a3e","stroke":"#6e1c1c","strokeWidth":"1.5"}],["$","path",null,{"d":"M22 33 H40 M44 33 H60 M64 33 H78 M22 37 H50 M54 37 H74","stroke":"#6e1c1c","strokeWidth":"1.2","opacity":"0.7"}],["$","circle",null,{"cx":"50","cy":"34.5","r":"1.8","fill":"#6e1c1c"}]]}]],["$","path",null,{"d":"M50 30 V86","stroke":"#c0392b","strokeWidth":"2"}],["$","path",null,{"d":"M50 86 Q44 92 40 90 M50 86 Q56 92 60 90","stroke":"#c0392b","strokeWidth":"2","fill":"none","strokeLinecap":"round"}]]}]]}]}]]}]}],["$","$L3",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/105ddkm1e3gg4.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/3d1brovtcvq47.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#6e1c1c"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Tamil Proverbs and Idioms with Meanings | Thamizh Koodam"}],["$","meta","1",{"name":"description","content":"Tamil proverbs (pazhamozhi) and idioms (marabuthodar) with Tamil meanings, literal English translations and what each means — 60 favourite proverbs, 40 idioms with examples, and a searchable collection of over 20,000 sayings."}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21"]}]}]}],"$L22"]}],"isPartial":"$@23","staleTime":"$8","varyParams":null},{"rsc":"$L24","isPartial":"$@25","staleTime":"$8","varyParams":"$26"},{"rsc":"$L27","isPartial":"$@28","staleTime":"$8","varyParams":"$26"}],"isUpgradeableISRFallback":false,"a":"$@29","rootVaryParams":null,"needsRuntimeRequest":"$@2a"}
+2b:I[27201,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/2omip1fmbf5d1.js"],"IconMark"]
+2c:I[39756,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/2omip1fmbf5d1.js"],"default"]
+2d:I[37457,["/_next/static/chunks/2on_wj-m13j4s.js","/_next/static/chunks/2omip1fmbf5d1.js"],"default"]
+6:null
+b:["$","meta","2",{"name":"application-name","content":"Thamizh Koodam"}]
+c:["$","link","3",{"rel":"canonical","href":"https://thamizh-koodam.com/tamil-learning/tamil-proverbs/"}]
+d:["$","meta","4",{"property":"og:title","content":"Tamil Proverbs and Idioms with Meanings | Thamizh Koodam"}]
+e:["$","meta","5",{"property":"og:description","content":"Tamil proverbs (pazhamozhi) and idioms (marabuthodar) with Tamil meanings, literal English translations and what each means — 60 favourite proverbs, 40 idioms with examples, and a searchable collection of over 20,000 sayings."}]
+f:["$","meta","6",{"property":"og:url","content":"https://thamizh-koodam.com/"}]
+10:["$","meta","7",{"property":"og:site_name","content":"Thamizh Koodam"}]
+11:["$","meta","8",{"property":"og:locale","content":"en_IN"}]
+12:["$","meta","9",{"property":"og:image","content":"https://thamizh-koodam.com/images/share.jpg"}]
+13:["$","meta","10",{"property":"og:image:width","content":"1200"}]
+14:["$","meta","11",{"property":"og:image:height","content":"630"}]
+15:["$","meta","12",{"property":"og:image:alt","content":"Thamizh Koodam — Where Tamil tradition comes together"}]
+16:["$","meta","13",{"property":"og:type","content":"website"}]
+17:["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}]
+18:["$","meta","15",{"name":"twitter:title","content":"Tamil Proverbs and Idioms with Meanings | Thamizh Koodam"}]
+19:["$","meta","16",{"name":"twitter:description","content":"Tamil proverbs (pazhamozhi) and idioms (marabuthodar) with Tamil meanings, literal English translations and what each means — 60 favourite proverbs, 40 idioms with examples, and a searchable collection of over 20,000 sayings."}]
+1a:["$","meta","17",{"name":"twitter:image","content":"https://thamizh-koodam.com/images/share.jpg"}]
+1b:["$","meta","18",{"name":"twitter:image:alt","content":"Thamizh Koodam — Where Tamil tradition comes together"}]
+1c:["$","meta","19",{"name":"twitter:image:width","content":"1200"}]
+1d:["$","meta","20",{"name":"twitter:image:height","content":"630"}]
+1e:["$","link","21",{"rel":"icon","href":"/favicon.ico?favicon.050-f-v80z9lt.ico","sizes":"48x48","type":"image/x-icon"}]
+1f:["$","link","22",{"rel":"icon","href":"/icon.png?icon.3cco6_xfdt32c.png","sizes":"192x192","type":"image/png"}]
+20:["$","link","23",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.0w13gw3u82zqi.png","sizes":"180x180","type":"image/png"}]
+21:["$","$L2b","24",{}]
+22:["$","meta",null,{"name":"next-size-adjust","content":""}]
+24:["$","$1","c",{"children":[null,["$","$L2c",null,{"parallelRouterKey":"children","template":["$","$L2d",null,{}]}]]}]
+27:["$","$1","c",{"children":[null,["$","$L2c",null,{"parallelRouterKey":"children","template":["$","$L2d",null,{}]}]]}]
+2a:true
+8:300
+8:C
+29:0
+23:"$undefined"
+25:"$undefined"
+28:"$undefined"
+7:"$undefined"
